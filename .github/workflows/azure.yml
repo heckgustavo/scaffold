@@ -1,4 +1,4 @@
-name: Teste de aplicação em Python com Github Actions
+name: Python 3.9.14 Azure
 
 on: [push]
 
